@@ -1,0 +1,16 @@
+{
+  "name": "tiphubbot",
+  "version": "1.0.0",
+  "description": "tiphub hotline for founders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Raphael Nweke",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "puppeteer": "^1.17.0",
+    "slackbots": "^1.2.0"
+  }
+}
